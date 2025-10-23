@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 301683855ee136dd4d3ed47658bb48d621faa05b DeepAgent <deepagent@abacus.ai> 1761227425 +0000	commit (initial): Dashboard FinOps completo multi-cloud
+301683855ee136dd4d3ed47658bb48d621faa05b 5580c8c717823180dbb9dafc9b28ac57e6c6d605 DeepAgent <deepagent@abacus.ai> 1761228823 +0000	commit: Fixed hydration errors and button functionality
+5580c8c717823180dbb9dafc9b28ac57e6c6d605 dc489f87f3dfca7f131076564cd02aa6165cd606 DeepAgent <deepagent@abacus.ai> 1761229195 +0000	commit: Upload functionality for CSV data
+dc489f87f3dfca7f131076564cd02aa6165cd606 92ffae77d21da4644c571e6cfc532be90012ef66 DeepAgent <deepagent@abacus.ai> 1761229653 +0000	commit: Página de upload com templates
+92ffae77d21da4644c571e6cfc532be90012ef66 acb0da8cd76612e46870c65a98ad77bc6facbf5c DeepAgent <deepagent@abacus.ai> 1761230472 +0000	commit: Added CSV export guide documentation
+acb0da8cd76612e46870c65a98ad77bc6facbf5c 09f7209fe6bb209ddcda6e289c23ff4195d1913a DeepAgent <deepagent@abacus.ai> 1761233616 +0000	commit: e88e9909-9bb2-4add-bc03-75698b93679f
+09f7209fe6bb209ddcda6e289c23ff4195d1913a 6911b51b9df9b3aefac90f1d98b25a41a1b25423 DeepAgent <deepagent@abacus.ai> 1761233767 +0000	commit: 52638100-2396-45b6-9078-b448f30f1d4c
+6911b51b9df9b3aefac90f1d98b25a41a1b25423 4de02118a49ff196489e6c980c720920c81124b4 DeepAgent <deepagent@abacus.ai> 1761234881 +0000	commit: Added developer documentation README
+4de02118a49ff196489e6c980c720920c81124b4 b4365628075433e423681e31775ba2983c0468f7 DeepAgent <deepagent@abacus.ai> 1761235036 +0000	commit: Added developer documentation README
+b4365628075433e423681e31775ba2983c0468f7 9a83082ae3d02d51a2cbbd745b37c9a001c6d16f DeepAgent <deepagent@abacus.ai> 1761235793 +0000	commit: Added executive dashboard and modernization features
+9a83082ae3d02d51a2cbbd745b37c9a001c6d16f 5cb01542829f17578c9c3fe7adfc54438cc868ae DeepAgent <deepagent@abacus.ai> 1761242316 +0000	commit: Complete FinOps dashboard with forecasting and metrics
+5cb01542829f17578c9c3fe7adfc54438cc868ae 8852482a4a9d07d7d69fbf002f8d99a50a09a2f8 DeepAgent <deepagent@abacus.ai> 1761242464 +0000	commit: 727c544c-2356-4ab9-9577-82f3d5307dd8
+8852482a4a9d07d7d69fbf002f8d99a50a09a2f8 a7da44fc98e67c958b500b9010e40d9a968020f8 DeepAgent <deepagent@abacus.ai> 1761242651 +0000	commit: Projeto pronto para GitHub com docs
+a7da44fc98e67c958b500b9010e40d9a968020f8 526f41aa751d8d08fc11b84bbc9ff93f158cb666 DeepAgent <deepagent@abacus.ai> 1761242977 +0000	commit: 213e8758-cf62-4688-996a-95e5c132ff7d
